@@ -79,7 +79,7 @@ The server will start on port `3000` by default.
 - Built with Node.js native HTTP module
 - Uses ES modules ( type: "module" in package.json)
 - Data is stored in memory (resets when server restarts)
-- Includes nodemon for development convenienc
+- Includes nodemon for development convenience.
 
 ## Development
 
