@@ -39,7 +39,7 @@ The server will start on port `3000` by default.
 
 #### GET /
 - Description: Retrieve all todo items.
-- - Response: JSON object containing all todo items with their IDs
+- Response: JSON object containing all todo items with their IDs
 
 #### POST /
 - Description: Create a new todo item
